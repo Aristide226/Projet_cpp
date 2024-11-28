@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1732538063 source:c:\users\acer\documents\uv-bf\uv-bf_genie_logiciel\l2\s4\programmation lanagage_c++\e_commerce\src\produit.cpp
+	"Produit.h"
+
+1732538037 c:\users\acer\documents\uv-bf\uv-bf_genie_logiciel\l2\s4\programmation lanagage_c++\e_commerce\include\produit.h
+	<string>
+
+1732541463 source:c:\users\acer\documents\uv-bf\uv-bf_genie_logiciel\l2\s4\programmation lanagage_c++\e_commerce\src\vente.cpp
+	"Vente.h"
+
+1732538011 c:\users\acer\documents\uv-bf\uv-bf_genie_logiciel\l2\s4\programmation lanagage_c++\e_commerce\include\vente.h
+	<string>
+
+1732632366 source:c:\users\acer\documents\uv-bf\uv-bf_genie_logiciel\l2\s4\programmation lanagage_c++\e_commerce\main.cpp
+	<iostream>
+	<vector>
+	"Produit.h"
+	"Vente.h"
+	"Fonction.h"
+
+1732567822 c:\users\acer\documents\uv-bf\uv-bf_genie_logiciel\l2\s4\programmation lanagage_c++\e_commerce\include\fonction.h
+	<vector>
+	"Produit.h"
+	"Vente.h"
+
+1732631676 source:c:\users\acer\documents\uv-bf\uv-bf_genie_logiciel\l2\s4\programmation lanagage_c++\e_commerce\src\fonction.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"Fonction.h"
+
+1732700541 source:c:\users\asus\desktop\e_commerce\main.cpp
+	<iostream>
+	<vector>
+	"Produit.h"
+	"Vente.h"
+	"Fonction.h"
+
+1732701673 c:\users\asus\desktop\e_commerce\include\produit.h
+	<string>
+
+1732701008 c:\users\asus\desktop\e_commerce\include\vente.h
+	<string>
+
+1732567822 c:\users\asus\desktop\e_commerce\include\fonction.h
+	<vector>
+	"Produit.h"
+	"Vente.h"
+
+1732701657 source:c:\users\asus\desktop\e_commerce\src\produit.cpp
+	"Produit.h"
+
+1732541463 source:c:\users\asus\desktop\e_commerce\src\vente.cpp
+	"Vente.h"
+
+1732701657 source:c:\users\asus\desktop\e_commerce\src\fonction.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"Fonction.h"
+
